@@ -1,0 +1,17 @@
+footer {
+    text-align: center;
+    position: static;
+    bottom: 0;
+}
+.footer
+{
+    width:100%;
+    background: linear-gradient(#f0d4ff,#ffffff,#f0d4ff);
+    font-family:"sansation",sans-serif;
+    border-top:1px solid #411b7d;
+    border-bottom:1px solid #411b7d;
+}
+.fill
+{
+    min-height: 100vh;
+}
